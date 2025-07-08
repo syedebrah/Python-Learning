@@ -1,7 +1,3 @@
-Great! Here's a **complete set of MySQL interview questions with clear answers** that are often asked in **Data Science interviews**.
-
----
-
 ## 🔹 **1. What is MySQL? How is it different from SQL?**
 
 **Answer:**
