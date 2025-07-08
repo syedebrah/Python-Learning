@@ -51,7 +51,7 @@ INNER JOIN departments d ON e.dept_id = d.id;
 
 **Answer:**
 
-- **WHERE** filters rows **before** grouping.
+- **WHERE** In MySQL, the WHERE clause is used to filter records based on specified conditions when querying data.
 - **HAVING** filters groups **after** aggregation (GROUP BY).
 
 Example:
